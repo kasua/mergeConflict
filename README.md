@@ -1,3 +1,6 @@
 # mergeConflict
-hello from branch two
+
+hello from branch three 
+
+
 
